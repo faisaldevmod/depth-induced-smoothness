@@ -24,7 +24,7 @@ As depth increases:
 We evaluate this hypothesis on:
 - Synthetic datasets  
 - MNIST  
-- (Optional: CIFAR-10 if included)
+- CIFAR-10
 
 Metrics used:
 - Pairwise distance contraction  
